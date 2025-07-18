@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Welcome to my GitHub! I'm Faizan Ahmed (aka MrFaizanAmd).
 
-<!--
-**MrFaizanAmd/MrFaizanAmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ Email : MrFaizanAmd@gmail.com
 
-Here are some ideas to get you started:
+Here you'll find all the **projects, problems, and passion** I’m pouring into learning and building new things every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 What you’ll discover:
+- ✅ Solved coding challenges (LeetCode, DSA, Patterns)
+- 🧩 Real-world projects (MERN Stack, Java, Firebase, APIs)
+- 🔄 Clean logic, spiral ideas, and structured thinking
+- 💡 Experiments that turn into products
+
+📌 Key Repos:
+- `Goject` – A smart study platform
+- `DSA-Java` – Structured DSA learning with code & docs
+- `LeetCode-Solutions` – Clean, readable solutions with README & approach
+
+Everything I learn → I build → I share.  
+Explore. Fork. Star. Let’s grow together 🌱
